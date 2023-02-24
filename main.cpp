@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>
+//#include <vector>
 //#include <algorithm>
 //#include <numeric>
 
@@ -23,9 +23,9 @@ auto func(int b) -> int
 
 auto main() -> int
 {
-    std::cout << "Hello, Test Project! Let's try this." << std::endl;
+    std::cout << "Hello, Test Project! Let's try this out." << std::endl;
 
-    auto vec = std::vector<int> {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14};
+    //auto vec = std::vector<int> {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16};
 
     // auto total = std::reduce(vec.begin(), vec.end());
 
